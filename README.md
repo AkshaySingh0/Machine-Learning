@@ -1,0 +1,1 @@
+# Machine-LearningA machine learning prediction model can be used to predict machine failures before they happen. Machine failures can be costly and disruptive. In the manufacturing industry, for example,  a single machine failure can lead to production delays, lost revenue, and even safety hazards
